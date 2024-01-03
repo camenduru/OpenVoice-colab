@@ -19,3 +19,4 @@ https://research.myshell.ai/open-voice
 
 ### 🖼 Output
 
+https://github.com/camenduru/OpenVoice-colab/assets/54370274/58bf6867-4011-4611-9160-91c4b8448e00
